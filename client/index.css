@@ -1,0 +1,14 @@
+.my-box:focus {
+    outline:none;
+}
+
+.my-box {
+    border:none;
+    width:100%;
+    line-height:12px;
+    pointer-events:none;
+}
+
+p {
+    height:16px;
+}
